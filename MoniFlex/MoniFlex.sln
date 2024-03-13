@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoniFlexApi", "MoniFlexApi.csproj", "{6D1A26A9-21D3-44DF-B460-77F580062FF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoniFlex.Models", "..\MoniFlex.Models\MoniFlex.Models.csproj", "{900A8496-F20C-4813-A2E5-57FA7B66787D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoniFlex.DataAccess", "..\MoniFlex.DataAccess\MoniFlex.DataAccess.csproj", "{D20D319D-95EC-4DF6-A8A7-13287EE7E40B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoniFlex.Utility", "..\MoniFlex.Utility\MoniFlex.Utility.csproj", "{E00033CF-D7AE-40CC-852F-C5F5A63A1D1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9AD4255-C1B5-4B60-A734-E929FF7D5814}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D1A26A9-21D3-44DF-B460-77F580062FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1A26A9-21D3-44DF-B460-77F580062FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1A26A9-21D3-44DF-B460-77F580062FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1A26A9-21D3-44DF-B460-77F580062FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900A8496-F20C-4813-A2E5-57FA7B66787D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900A8496-F20C-4813-A2E5-57FA7B66787D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900A8496-F20C-4813-A2E5-57FA7B66787D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900A8496-F20C-4813-A2E5-57FA7B66787D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20D319D-95EC-4DF6-A8A7-13287EE7E40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20D319D-95EC-4DF6-A8A7-13287EE7E40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20D319D-95EC-4DF6-A8A7-13287EE7E40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20D319D-95EC-4DF6-A8A7-13287EE7E40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00033CF-D7AE-40CC-852F-C5F5A63A1D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00033CF-D7AE-40CC-852F-C5F5A63A1D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00033CF-D7AE-40CC-852F-C5F5A63A1D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00033CF-D7AE-40CC-852F-C5F5A63A1D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F85F3A40-BAE7-4135-A290-9CF7C1F14B74}
+	EndGlobalSection
+EndGlobal
